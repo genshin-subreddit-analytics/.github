@@ -1,12 +1,3 @@
-## Hi there 👋
+# Genshin Subreddit Analytics
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The "Genshin Subreddit Analytics" project aims to collect and archive comments related to the popular game "Genshin Impact" on Reddit. The project is automated and runs on a regular schedule to capture all comments posted within the last two weeks. The collected comments are then processed through sentiment analysis to determine the prevailing emotional tone of each comment. The results of this analysis are then visualized using Tableau, allowing for easy interpretation and analysis of the data. By leveraging automated data collection and sentiment analysis techniques, this project provides valuable insights into the opinions and attitudes of the Genshin Impact community on Reddit.
